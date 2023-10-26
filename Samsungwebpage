@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SAMSUNG MOBILES</title>
+</head>
+<body bgcolor="whitesmoke">
+	<center><h1>SAMSUNG</h1></center>
+	<p><b>Welcome to SAMSUNG</b></p>
+	<p>CATEGORIES</p>
+	<ol type="1">
+		<li>M SERIES</li>
+		<li>A SERIES</li>
+		<li>S SERIES</li>
+		<li>F SERIES</li>
+		<li>ULTRA SERIES</li>
+	</ol>
+
+	<h2>Prices</h2>
+	<table cellpadding="2" border="2">
+	<tr>
+		<th>S.no</th>
+		<th>Mobiles</th>
+		<th>prices</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>S23 ULTRA</td>
+		<td>130000</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>S23+</td>
+		<td>80000</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>S23</td>
+		<td>70000</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>S23 FE</td>
+		<td>60000</td>
+	</tr>
+	</table>
+	<iframe src=https://images.samsung.com/in/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-share-image.jpg width="1200px" height="630px"></iframe>
+</body>
+</body>
+</html>
